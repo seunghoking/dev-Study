@@ -1,6 +1,9 @@
 # dev-Study
 혼자서 계속 보려고 만든 잡.다.한 개발 지식 공간
 
+## 실무에서 mongoDB slow 쿼리를 해결해보려고 했던 경험(1)
+- https://velog.io/@seunghoking/%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-mongoDB-slow-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%B4%EB%B3%B4%EB%A0%A4%EA%B3%A0-%ED%96%88%EB%8D%98-%EA%B2%BD%ED%97%98
+
 ## 한국어 형태소 분석기 분석해보기 (개인적인 견해, 나)
 - https://velog.io/@seunghoking/NLP-%ED%95%9C%EA%B5%AD%EC%96%B4-%ED%98%95%ED%83%9C%EC%86%8C-%EB%B6%84%EC%84%9D%EA%B8%B0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%93%9C%EB%A6%B4%EA%B2%8C%EC%9A%94
 
