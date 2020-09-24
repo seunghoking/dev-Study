@@ -25,3 +25,6 @@
 ## 기술 면접 준비하기, 기본 지식
 - https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0
 - https://www.notion.so/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304
+
+## AWS 프리티어 사용시 요금 발생 팁 (elastic IP때문에 3천원 과금되었다...ㅠㅠㅡㅠㅠ)
+- https://gun0912.tistory.com/45
