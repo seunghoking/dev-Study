@@ -21,3 +21,6 @@
 
 ## 어중간히 알면 안되는 JS 개념 - this
 - https://velog.io/@wlsdud2194/%EC%96%B4%EC%A4%91%EA%B0%84%ED%9E%88-%EC%95%8C%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-JS-%EA%B0%9C%EB%85%90-1-this
+
+## 기술 면접 준비하기, 기본 지식
+- https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0
