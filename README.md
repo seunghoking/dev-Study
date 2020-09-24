@@ -18,3 +18,6 @@
 
 ## Nginx 설정 자동화 사이트 (참고)
 - https://www.digitalocean.com/community/tools/nginx#
+
+## 어중간히 알면 안되는 JS 개념 - this
+- https://velog.io/@wlsdud2194/%EC%96%B4%EC%A4%91%EA%B0%84%ED%9E%88-%EC%95%8C%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-JS-%EA%B0%9C%EB%85%90-1-this
