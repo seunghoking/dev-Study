@@ -31,3 +31,5 @@
 - [CI/CD Jenkins vs GitLabCI vs Travis](https://owin2828.github.io/devlog/2020/01/09/cicd-1.html)
 
 - [CI/CD 아마존 Code Build](https://velog.io/@city7310/%EB%B0%B1%EC%97%94%EB%93%9C%EA%B0%80-%EC%9D%B4%EC%A0%95%EB%8F%84%EB%8A%94-%ED%95%B4%EC%A4%98%EC%95%BC-%ED%95%A8-11.-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94)
+
+- [AWS S3, CloudFront에 배포하기](https://react-etc.vlpt.us/08.deploy-s3.html)
