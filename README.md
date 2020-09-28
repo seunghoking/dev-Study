@@ -34,4 +34,4 @@
 
 - [AWS S3, CloudFront에 배포하기](https://react-etc.vlpt.us/08.deploy-s3.html)
 
-- [Express와 Passport.js로 OAuth2.0(소셜 로그인) 구현](https://velog.io/@cyranocoding/PASSPORT.js-%EB%A1%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+- [Express.js와 Passport.js로 OAuth2.0(소셜 로그인) 구현](https://velog.io/@cyranocoding/PASSPORT.js-%EB%A1%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
