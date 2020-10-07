@@ -39,3 +39,5 @@
 - [왜 자바 Spring만 뽑나요? 꼭 배워야 하나요?](https://seolin.tistory.com/119)
 
 - [ElasticSearch 인덱싱 성능 최적화](https://brunch.co.kr/@alden/37)
+
+- [ElasticSearch Cluster 구축](https://arclab.tistory.com/109)
