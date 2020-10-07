@@ -40,4 +40,6 @@
 
 - [ElasticSearch 인덱싱 성능 최적화](https://brunch.co.kr/@alden/37)
 
+- [ElasticSearch 노드의 종류 및 클러스터링](https://coding-start.tistory.com/182)
+
 - [ElasticSearch Cluster 구축](https://arclab.tistory.com/109)
